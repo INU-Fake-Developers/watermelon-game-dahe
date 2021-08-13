@@ -11,3 +11,5 @@
 
 잘 부탁드립니다.  
 `이제` **수박게임**을 만들어보겠습니다.
+
+[💥 결과물이 궁금하시다면?](https://mayonnaise-janakkaena.netlify.app/)
